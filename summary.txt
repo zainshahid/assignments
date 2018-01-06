@@ -1,0 +1,143 @@
+  1. "a"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (2x)
+
+  2. "CHIEF ADMIN OFCR OF THE HOUSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         29 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (2x)
+
+  3. "2017Q1"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (2x)
+
+  4. "ADMIN AND OPS"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         13 characters
+	Most common values:    ADMIN AND OPS (2x)
+
+  5. "SUPPLIES AND MATERIALS"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (2x)
+
+  6. "1/20/2017"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2017-02-27
+	Largest value:         2017-03-28
+	Most common values:    2017-02-27 (1x)
+	                       2017-03-28 (1x)
+
+  7. "AP"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (2x)
+
+  8. "900787"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        906,775
+	Largest value:         912,405
+	Sum:                   1,819,180
+	Mean:                  909,590
+	Median:                909,590
+	StDev:                 3,981.011
+	Most common values:    906,775 (1x)
+	                       912,405 (1x)
+
+  9. "DEER PARK"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         9 characters
+	Most common values:    DEER PARK (2x)
+
+ 10. "12/31/2016"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2017-01-31
+	Largest value:         2017-02-28
+	Most common values:    2017-01-31 (1x)
+	                       2017-02-28 (1x)
+
+ 11. "12/31/2016_2"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2017-01-31
+	Largest value:         2017-02-28
+	Most common values:    2017-01-31 (1x)
+	                       2017-02-28 (1x)
+
+ 12. "WATER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         5 characters
+	Most common values:    WATER (2x)
+
+ 13. "1486.34"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        1,369.41
+	Largest value:         1,577.37
+	Sum:                   2,946.78
+	Mean:                  1,473.39
+	Median:                1,473.39
+	StDev:                 147.05
+	Most common values:    1,369.41 (1x)
+	                       1,577.37 (1x)
+
+ 14. "2016"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   4,034
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0
+	Most common values:    2,017 (2x)
+
+ 15. "DEER PARK_2"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         9 characters
+	Most common values:    DEER PARK (2x)
+
+Row count: 2
